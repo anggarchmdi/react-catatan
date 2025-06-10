@@ -5,7 +5,7 @@ on:
       - dev
 
 env:
-  IMAGE_NAME: react-catatan
+  IMAGE_NAME: react-catatan-vspring
 
 jobs:
   build-and-push:
