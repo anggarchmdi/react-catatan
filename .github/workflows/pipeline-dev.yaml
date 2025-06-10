@@ -5,7 +5,7 @@ on:
       - dev
 
 env:
-  IMAGE_NAME: vima-mobile-service-dev
+  IMAGE_NAME: react-catatan
 
 jobs:
   build-and-push:
